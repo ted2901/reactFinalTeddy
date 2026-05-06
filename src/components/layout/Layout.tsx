@@ -34,7 +34,7 @@ export const Layout = ({ children }: Props) => {
         <Menu menuOptions={menuOptions} />
         <Container sx={{ flex: 1, py: 3 }}>{children}</Container>
       </Box>
-      <Footer message="© 2024 Mi Aplicación. Todos los derechos reservados." />
+      <Footer message="© 2026. Todos los derechos reservados - Teddy Ubaldo Machicado Tito." />
     </Box>
   );
 };
