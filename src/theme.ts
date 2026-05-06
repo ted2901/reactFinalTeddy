@@ -41,12 +41,6 @@ const theme = createTheme({
             backgroundImage: 'linear-gradient(45deg, #1e88e5, #42a5f5)',
           },
         },
-        containedPrimary: {
-          backgroundImage: 'linear-gradient(45deg, #1e88e5, #42a5f5)',
-        },
-        containedSecondary: {
-          backgroundImage: 'linear-gradient(45deg, #ff4081, #f50057)',
-        },
       },
     },
     // Mejora de la barra de navegación
